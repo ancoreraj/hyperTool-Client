@@ -1,0 +1,15 @@
+.create-log-body {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+}
+
+.create-log-body input {
+    padding: 10px;
+    margin: 10px;
+}
+
+button {
+    padding: 5px;
+    width: 100px;
+}
